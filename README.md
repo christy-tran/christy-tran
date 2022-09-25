@@ -17,7 +17,7 @@
 
 <div class="journeyToCode">
 
-  <h2>I’m currently learning & using:</h2>
+  <h2>:books: I’m currently learning & using:</h2>
   
   <div class="programIcons>
   
@@ -41,7 +41,7 @@
   
   <div class="goals">
   
-  <h2>Short Term Goals:</h2>
+  <h2>:seedling: Short Term Goals:</h2>
   
   <ul>
   <li>Recreate popular websites/games/apps with a touch of my own personal flair</li>
@@ -50,7 +50,7 @@
   <li>Break into tech by landing my first web development job!</li>
   </ul>
   
-  <h2>Long Term Goals:</h2>
+  <h2>:deciduous_tree: Long Term Goals:</h2>
   
   <ul>
   <li>Develop an original and meaningful project that makes a difference</li>
@@ -69,7 +69,7 @@
 
 <div class="careerChange">
 
-<h3>Why Did I Switch to Tech/Programming?</h3>
+<h3>Why Did I Switch to Tech/Programming? :desktop_computer:</h3>
 
 <p>After graduating with my B.S. in Biology, I was preparing for a medical career when I quickly realized: I have always had a love and appreciation for technology. </p>
 
@@ -78,7 +78,7 @@
 <p>Perhaps a catalyst to discovering my passion for programming was when my dad needed a new software for his small business. The previous system he had in place was not backed up properly, so he lost everything when his computer crashed, rendering him to do everything by paper. When
 he could not afford to hire a company, he asked me to find a friend that could help us, which was difficult as everyone I knew was busy with their new careers. As I listened to the things he needed for the software, it sounded so simple that I became frustrated for not being able to just do it myself. I began researching solutions online and created a basic version of what he needed (a bare bone database on Microsoft Access) before my brother’s developer friend found out about his predicament and created it for him on the spot.</p>
 
-<p>My dad’s needs were finally met, but I was left with a revelation and hunger bubbling deep inside me—I never want to feel so helpless again; I want to be able to create things and solve problems on my own to help myself and others in need.</p>
+<p>My dad’s needs were finally met, but I was left with a revelation and hunger bubbling deep inside me—I never want to feel so helpless again; I want to be able to create things and solve problems on my own to help myself and others in need. :heartpulse:</p>
 
 <!-- <p>As I learn fundamental web development concepts and explore the GitHub community, the amount of teamwork and collaboration I’ve witnessed has truly fascinated me. I’m currently a bit of a lurker in this large community, but I hope to grow into a more helpful member with each day!</p> -->
 
