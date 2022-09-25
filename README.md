@@ -53,9 +53,10 @@
   <h2>Long Term Goals:</h2>
   
   <ul>
-  <li>Continue to learn more programming languages (Next up Python!)</li>
-  <li>Grow as a programmer and become a full-stack engineer one day</li>
   <li>Develop an original and meaningful project that makes a difference</li>
+  <li>Grow as a programmer and become a full-stack engineer one day</li>
+  <li>Continue to learn more programming languages (Next up Python!)</li>
+  
   </ul>
   
   </div>
