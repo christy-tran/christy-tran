@@ -17,7 +17,7 @@
 
 <div class="journeyToCode">
 
-  <h2>I’m currently learning & studying:</h2>
+  <h2>I’m currently learning & using:</h2>
   
   <div class="programIcons>
   
